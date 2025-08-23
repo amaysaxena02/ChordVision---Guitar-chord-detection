@@ -13,7 +13,7 @@ Key features
 
 Technologies & Libraries:
 
-* Python, NumPy, Librosa, scikit-learn, Joblib
+* Python (3.13.3), NumPy, Librosa, scikit-learn, Joblib
 * Audio processing and feature extraction
 * Random Forest classifier for chord recognition
 * Optional integration with Streamlit for interactive UI
